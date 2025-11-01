@@ -32,8 +32,8 @@ Users can add, edit, delete, mark tasks as done, and view their task list direct
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kibalamaa/todo-ts-cli.git
-   cd todo-ts-cli
+   git clone https://github.com/kibalamaa/Todo-ts.git
+   cd Todo-ts
 
 2. Install dependencies:
     ```bash
